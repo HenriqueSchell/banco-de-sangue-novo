@@ -1,0 +1,1 @@
+Projeto feito para apresentação de um seminário, sobre o tema banco de sangue, o seminário foi realizado em 2024-1 e desde então não foi mais mexido, o original foi criado com HTML e CSS, uma versão simples, decidi então repaginar este projeto utilizando imagem como fundo, imagens com qualidade melhor. Para este projeto foi utilizado HTML e TailwindCSS.
